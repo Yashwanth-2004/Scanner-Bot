@@ -1,4 +1,4 @@
-#Scanner Bot
+# Scanner Bot
 
 This is an OCR (Optical Character Recognition) scanner bot built using Python and the Pyrogram library. It allows users to send images of bills, extract data from them using OCR, and store the information in an Excel sheet.
 
